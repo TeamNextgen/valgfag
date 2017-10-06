@@ -1,6 +1,7 @@
 .OverLayBox {
 width: 900px;
 height: 90px;
+position: absolute;
 left: 1px;
 top: 1px;
 background-color: red; 
