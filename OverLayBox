@@ -3,6 +3,6 @@
 	height:100px;
 }
  
-.red{
+.OverLay{
 	background:#f00;
 }
