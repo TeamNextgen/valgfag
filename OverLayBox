@@ -1,8 +1,5 @@
-.OverLay{
-	width:100px;
-	height:100px;
-}
- 
-.OverLay{
-	background:#f00;
+.OverLayBox{
+    width: 100px;
+    height: 100px;
+    Background-color: #fff;/* Your Color */
 }
