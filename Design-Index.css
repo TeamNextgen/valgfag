@@ -3,9 +3,20 @@ width:100%;
 height: 90px;
 left: -1px;
 top: -1px; 
-background-color: lightgrey; 
+background-color: #efeded; 
 position: absolute;
 border: 1px solid black;
+}
+
+.MenuBox {		
+width:100%;
+height: 60px;
+left: -1px;
+top: 60px; 
+background-color: white; 
+position: absolute;
+border: 1px solid black;
+box-shadow: -2px 5px 5px #888888;
 }
 
 .BackBox {		
@@ -13,16 +24,15 @@ width:100%;
 height: 140%;
 left: 0px;
 top: 0px; 
-background-color: white; 
+background-color: #efeded; 
 position: absolute;
 }
 
-.NextGen {		
+.NextGen {	
+font-family: Avantgarde;
 left: 10px;
 top: -10px;
 font-size: 60px;
 color: blue;
 position: absolute;
 }
-
-
